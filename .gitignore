@@ -1,0 +1,19 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+myenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large files (if any, consider Git LFS if > 100MB)
+# data.csv  (Uncomment if larger than 100MB and using Git LFS)
+
+
+*.csv
+# HTML files
+order_map.html
